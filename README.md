@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lordcasta&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="domves" />
 </p>
----
 
 ## ✍️ **Sobre mí**
 Desarrollador Web con HTML, Javascript, PHP y MySQL & QA con Java, Serenity BDD, Gherkin y Cucumber. Apasionado por solucionar problemas a través de software, me encanta aprender cosas nuevas y profundizar lo que ya sé. Tengo una gran atención a los detalles, y me esfuerzo por cada día superarme 🚀.
